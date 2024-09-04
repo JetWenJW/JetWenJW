@@ -1,4 +1,3 @@
 - 👋 Hi, I’m JetWen, I've been working as a software engineer for 2 years major in SOC, MCU and AI developments.
 - 👀 I’m interested in Maching Learning, MCU, SOC developments.
-- 🌱 I’m currently learning How to be a freelancer.
 - 📫 If you want to reach me. Welcome to contact killer500k@gmail.com
